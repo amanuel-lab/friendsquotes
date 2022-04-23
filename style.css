@@ -1,0 +1,46 @@
+.{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: large;
+    
+}
+
+
+
+body{
+    background-image: url(16994940.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+     
+
+}
+.card{
+    background-color: black;
+    color: aquamarine;
+    margin-top: 15cm;
+    width: 50cm;
+    align-content: center;
+    margin-left: 90cm;
+    height: 30cm;
+    font-size: 5cm;
+}
+.container{
+    
+}
+
+button {
+    background-color: aqua;
+    padding: 10px;
+    vertical-align: top;
+    box-shadow: 2px 1px 2px gray;
+    margin: 4px 10px 4px 10px;
+}
+
+buton:active {
+    box-shadow: 0 0 0 white;
+    margin: 6px 10px 2px 10px;
+}
+
