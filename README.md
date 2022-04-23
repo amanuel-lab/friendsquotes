@@ -1,0 +1,2 @@
+# friendsquotes
+name :- Amanuel Getachew
