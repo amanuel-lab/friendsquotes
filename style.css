@@ -13,7 +13,7 @@ body{
     background-image: url(16994940.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-    
+ 
      
 
 }
@@ -26,21 +26,29 @@ body{
     margin-left: 90cm;
     height: 30cm;
     font-size: 5cm;
+   
+}
+@media screen (max-width:600px) {
+        
+    body{
+        margin-top:50cm;
+        background-image: url(tg.jpg);
+        
+    }
+    
 }
 .container{
     
 }
 
-button {
+.button {
     background-color: aqua;
     padding: 10px;
     vertical-align: top;
-    box-shadow: 2px 1px 2px gray;
+    box-shadow: 2px 1px 2px rgb(218, 13, 13);
     margin: 4px 10px 4px 10px;
 }
 
-buton:active {
-    box-shadow: 0 0 0 white;
-    margin: 6px 10px 2px 10px;
-}
+
+
 
