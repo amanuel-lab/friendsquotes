@@ -1,7 +1,9 @@
+const url = "https://friends-quotes-api.herokuapp.com/quotes";
+
 const quote = document.getElementById("quote");
 const author = document.getElementById("character");
 const btn = document.getElementById("btn");
-const url = "https://friends-quotes-api.herokuapp.com/quotes";
+
 btn.addEventListener("click", getQuote);
 
 function getQuote(){
